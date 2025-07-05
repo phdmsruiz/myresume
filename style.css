@@ -1,0 +1,11 @@
+/*Adicionando cor aos títulos, ao fundo e o tipo da fonte e formatação*/
+
+h1, h2, h3 {
+  color: purple;
+}
+
+body {
+  background-color: rgb(200, 162, 200);
+  font-family: Arialm sans-serif;
+  text-align: justify;
+}
